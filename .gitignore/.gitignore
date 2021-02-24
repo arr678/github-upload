@@ -1,0 +1,6 @@
+# Ensure single trailing newline
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
